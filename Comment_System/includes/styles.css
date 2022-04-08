@@ -1,0 +1,31 @@
+			.header {
+				background-color: #205080;
+				height: 150px; 
+			}
+			
+			
+			.container {
+				width: 800;
+				float:center;
+			}
+			
+			
+			.textarea {
+				width: 800;
+				border-radius: 8px
+			}
+			
+			
+			.textbox {
+				border-radius: 5px;
+				float: left;
+			}
+			
+			
+			.button { 
+				background-color: red;
+				color: white; 
+				padding: 10px;
+				float: right;
+				border-radius: 8px
+			}
